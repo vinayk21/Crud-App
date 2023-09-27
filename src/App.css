@@ -1,0 +1,48 @@
+.main{
+  text-align: center;
+  border-color: black;
+  margin-top: 100px;
+  font-family: 'Times New Roman', Times, serif;
+  box-sizing: content-box;
+ }
+ .btnadd{
+   margin-left: 15px;
+   color:black
+   
+ }
+ .btnadd:hover{
+   color: white;
+   background-color:green;
+ }
+ .main:hover{
+   border: black;
+ 
+ }
+ .ollist{
+   margin-left: 625px;
+ }
+ .editbtn{
+   margin-left: 40px;
+   margin-bottom: 12px;
+   display: table-cell;
+ }
+ .removebtn{
+ margin-left: 23px;
+ margin-bottom: 10px;
+ }
+ .removebtn:hover{
+   color:white;
+   background-color: red;
+ }
+ .paragraph{
+   color: blue;
+   border-radius: 12%;
+ }
+ .prgp{
+   border-width: 2px; border-style: solid; border-color: black;
+   margin-left: 550px;
+   margin-right: 550px;
+   background-color: yellow;}
+   .editbtn:hover{
+       background-color: rgb(196, 88, 196);
+   }
